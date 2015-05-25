@@ -4,6 +4,11 @@ The Fibbonacci sequence is a simple numeric sequence that comes up frequently
 in Computer Science and design tasks. Let's write a generator that can
 tell us an arbitrary quantity of numbers in the sequence.
 
+##To Play
+
+After you git clone the repository, `cd fibber` and type `ruby fibber.rb` and follow the prompts.
+Enjoy!
+
 ## Theory
 
 The sequence begins with the numbers 0 and 1. From there, each element is the sum
